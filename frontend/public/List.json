@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name":"The Story Book",
+        "Title":"World of Stories",
+        "price": "$0",
+        "category": "Free",
+        "image": "/public/books.jpg"
+    },
+    {
+        "id": 2,
+        "name":"Comedy",
+        "Title":"The Amazing Comedy",
+        "price": "$0",
+        "category": "Free",
+        "image": "/public/books.jpg"
+    },
+    {
+        "id": 3,
+        "name":"The Story Book",
+        "Title":"Brave Man",
+        "price": "$0",
+        "category": "Free",
+        "image": "/public/books.jpg"
+    },
+    {
+        "id":4,
+        "name":"Food Book",
+        "Title":"A goof shaif",
+        "price": "$0",
+        "category": "Free",
+        "image": "/public/books.jpg"
+    },
+    {
+        "id": 5,
+        "name":"Sports",
+        "Title":"Cricket Mania",
+        "price": 50,
+        "category": "Paid",
+        "image": "/public/books.jpg"
+    },
+    {
+        "id": 6,
+        "name":"Marketing",
+        "Title":"Digital Marketing",
+        "price": 0,
+        "category": "Free",
+        "image": "/public/books.jpg"
+    },
+    {
+        "id": 7,
+        "name":"Sports life",
+        "Title":"Football Fever",
+        "price": 50,
+        "category": "Paid",
+        "image": "/public/books.jpg"
+    },
+    {
+        "id": 5,
+        "name":"Sports gullibazzi",
+        "Title":"goomba",
+        "price": 100,
+        "category": "Paid",
+        "image": "/public/books.jpg"
+    },
+    {
+        "id": 8,
+        "name":"Sports hokey",
+        "Title":"Hokey World",
+        "price": 0,
+        "category": "Free",
+        "image": "/public/books.jpg"
+    }
+]
